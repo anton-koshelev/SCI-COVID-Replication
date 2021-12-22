@@ -9,3 +9,5 @@ File summary:
 - [replication_out_of_sample_results_analysis.ipynb](https://github.com/anton-koshelev/SCI-COVID-Replication/blob/main/replication_out_of_sample_results_analysis.ipynb) - visualisation of replication and extension results (out-of-sample forecasting)
 - [replication_oos_rmse_rf_xgb.csv](https://github.com/anton-koshelev/SCI-COVID-Replication/blob/main/replication_oos_rmse_rf_xgb.csv) - replication & extension results (RMSEs)
 - [ext_df.csv](https://github.com/anton-koshelev/SCI-COVID-Replication/blob/main/ext_df.csv) - extension supplementary results
+
+Original code and data - https://github.com/social-connectedness-index/example-scripts
