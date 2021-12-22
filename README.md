@@ -13,3 +13,4 @@ File summary:
 Original code and data - https://github.com/social-connectedness-index/example-scripts
 
 ![us_sci_heatmap](https://user-images.githubusercontent.com/77440257/147104192-79154852-67f2-45fb-9349-7b558ac68ce3.png)
+![us_cases_heatmap](https://user-images.githubusercontent.com/77440257/147104312-315952ff-5683-4588-8cf2-2bd997f13908.png)
