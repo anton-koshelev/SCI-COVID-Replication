@@ -11,3 +11,5 @@ File summary:
 - [ext_df.csv](https://github.com/anton-koshelev/SCI-COVID-Replication/blob/main/ext_df.csv) - extension supplementary results
 
 Original code and data - https://github.com/social-connectedness-index/example-scripts
+
+![us_sci_heatmap](https://user-images.githubusercontent.com/77440257/147104192-79154852-67f2-45fb-9349-7b558ac68ce3.png)
